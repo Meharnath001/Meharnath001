@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meharnath001
-- 👀 I’m interested in embedded system
-- 🌱 I’m currently learning BE -ECE
+- 👀 I’m interested in embedded system,Data Analyst,Data Science
+- 🌱 Completed bachelor's degree in ECE
 - 💞️ I’m looking to collaborate on software
 - 📫 How to reach me through KEC
 
